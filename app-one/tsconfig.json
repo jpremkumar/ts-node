@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "./app-one.js",
+        //"sourceRoot": "./app/**/*.ts",
+        "rootDir": "./"
+    }
+}
